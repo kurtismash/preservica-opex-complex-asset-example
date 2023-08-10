@@ -1,0 +1,13 @@
+<opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+    <opex:Transfer>
+        <opex:SourceID>Folder B</opex:SourceID>
+        <opex:Manifest>
+            <opex:Folders>
+                <opex:Folder>assetUuid.pax</opex:Folder>
+            </opex:Folders>
+            <opex:Files>
+                <opex:File type="metadata" size="1531">assetUuid.pax.opex</opex:File>
+            </opex:Files>
+        </opex:Manifest>
+    </opex:Transfer>
+</opex:OPEXMetadata>

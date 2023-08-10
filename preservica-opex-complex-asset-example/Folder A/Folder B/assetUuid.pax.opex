@@ -1,0 +1,23 @@
+<opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+    <opex:Transfer>
+        <opex:Manifest>
+            <opex:Folders>
+                <opex:Folder>Representation_Preservation</opex:Folder>
+                <opex:Folder>Representation_Preservation/0e6bafb9-1596-472b-861a-5af449dbdf72</opex:Folder>
+                <opex:Folder>Representation_Preservation/0e6bafb9-1596-472b-861a-5af449dbdf72/Generation_1</opex:Folder>
+                <opex:Folder>Representation_Preservation/9611684b-91e8-4c3a-b79c-15bf4f329f6b</opex:Folder>
+                <opex:Folder>Representation_Preservation/9611684b-91e8-4c3a-b79c-15bf4f329f6b/Generation_1</opex:Folder>
+            </opex:Folders>
+            <opex:Files>
+                <opex:File type="metadata" size="2743">assetUuid.xip</opex:File>
+                <opex:File type="content" size="4273">Representation_Preservation/0e6bafb9-1596-472b-861a-5af449dbdf72/Generation_1/0e6bafb9-1596-472b-861a-5af449dbdf72.docx</opex:File>
+                <opex:File type="content" size="64">Representation_Preservation/9611684b-91e8-4c3a-b79c-15bf4f329f6b/Generation_1/9611684b-91e8-4c3a-b79c-15bf4f329f6b.json</opex:File>
+            </opex:Files>
+        </opex:Manifest>
+    </opex:Transfer>
+    <opex:Properties>
+        <opex:Title>My Asset</opex:Title>
+        <opex:Description>An asset ingested through OPEX with an unzipped PAX+XIP</opex:Description>
+        <opex:SecurityDescriptor>open</opex:SecurityDescriptor>
+    </opex:Properties>
+</opex:OPEXMetadata>
